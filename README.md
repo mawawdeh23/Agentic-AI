@@ -1,1 +1,2 @@
-
+The projects in this repository are designed to enhance technical skills by building real-world applications using tools like OpenAI Agents SDK, CrewAI, and LangGraph. 
+Participants will engage in hands-on experiences to develop coding, research, automation, and collaboration skills while working on projects such as creating sales representative agents, building stock pickers, and managing an engineering team.
