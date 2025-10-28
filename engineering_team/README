@@ -1,1 +1,3 @@
-
+The project involves a "crew" of various agents that work collaboratively, utilizing tools like FastAPI and MCP to autonomously gather and analyze market data, manage investment strategies, and execute trades.
+These agents are programmed to conduct research, update their investment strategies, and operate within a trading simulation engine that runs on code developed by the team.
+The collaborative effort highlights the integration of AI in enhancing trading strategies, showcasing both the technical capabilities of the agents.
