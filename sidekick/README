@@ -1,1 +1,9 @@
+a LangGraph-based AI workflow where multiple agents collaborate.
 
+Here’s the flow:
+🔹 A Research Agent: investigates outage causes and proposes resilient architecture designs.
+🔹 An Evaluator: checks whether each answer meets the defined success criteria.
+🔹 LangGraph’s conditional edges dynamically control the process:
+ • If the evaluator approves → the system finalizes the design.
+ • If not → it either requests further data or clarification from the user or use other provided helping tools, 
+	then reruns the analysis until the design meets the standards.
